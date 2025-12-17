@@ -1,0 +1,7 @@
+{
+  "name": "TravelLink - 旅途印记",
+  "description": "Premium travel agency customer portal for photo sharing, tour management, and AI travel assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
